@@ -18,7 +18,7 @@
  <a href="#autor">Autor</a>
 </p>
 
-### Features
+## Features
 
 - [x] Cadastro de usuário
 - [x] Cadastro de games
@@ -26,9 +26,30 @@
 - [X] Contagens de usuários
 - [X] "Compra" de games
 
+## Objetivo
 
+Aplicar o conhecimento que foi mostrado no desenvolvimento do app principal, conhecimentos sobre Queries SQl e Query Buider do TypeORM e também consultas SQL com o TypeORM.
 
+### 🛠 Tecnologias
+ As seguintes ferramentas foram usadas na construção do projeto:
+ - [Node.js](https://nodejs.org/en/)
+ - [TypeScript](https://www.typescriptlang.org/)
+ - [Docker](https://www.docker.com/)
+ - [TypeORM](https://typeorm.io/#/)
+ 
 
 <h4 align="center"> 
 	✅  Database Queries 🚀 Finalizado...  ✅
 </h4>
+
+### Autor
+
+ <img style="border-radius: 50%;" src="https://github.com/joaoeduardodias.png" width="100px;" alt=""/>
+ <br />
+ <sub><b>João Dias</b></sub> 🚀
+
+
+Feito com ❤️ por João Dias 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-João-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jo%C3%A3o-dias-465157183/)](https://www.linkedin.com/in/jo%C3%A3o-dias-465157183/) 
+[![Gmail Badge](https://img.shields.io/badge/-joaoeduardodias123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoeduardodias123@gmail.com)](mailto:joaoeduardodias123@gmail.com)
