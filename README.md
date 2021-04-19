@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img alt="DatabaseQueries" title="#DatabaseQueries" src="./github/Logo.png" />
+</h1>
 <p align="center">
 <img src= "https://img.shields.io/github/issues/joaoeduardodias/Desafio-05-NodeJS" />
 <img src="https://img.shields.io/static/v1?label=Ignite&message=NodeJS&color=%3Cbrightgreen%3E&style=%3Cplastic%3E&logo=GHOST" />
