@@ -9,8 +9,8 @@
 
 
 
-<h1 align= "center">Challenge 05 - Database Queries </h1>
-<p align = "center">Challenge of ignite training from NodeJS, in this challenge I apply the concepts of SQL queries and also how to work with TYPEORM.</p>
+<h1 align= "center">Desafio 05 - Database Queries </h1>
+<p align = "center">Desafio do treinamento Ignite de NodeJS, neste desafio eu apliquei os conceitos de SQL queries e também como se trabalha com  TYPEORM.</p>
 
 
 <p align="center">
